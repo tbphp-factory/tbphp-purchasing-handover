@@ -1,0 +1,5 @@
+baseURL = "https://wb9du2xr-hugo-tbphp-purchasing-not.apps-2.websson.cloud/"
+languageCode = "en"
+title = "TBPHP Purchasing Notes"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term", "RSS"]
